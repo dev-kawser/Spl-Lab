@@ -5,6 +5,7 @@ void main()
     int a, b;
     
     printf("Enter two integers: ");
+    
     scanf("%d%d", &a,&b);
 
     if(a > b)

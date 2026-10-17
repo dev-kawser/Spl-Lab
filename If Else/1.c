@@ -11,6 +11,7 @@ void main()
     if(a > b)
     {
         printf("%d is Max,\n%d is min", a, b);
+        
     }
     else
     {
